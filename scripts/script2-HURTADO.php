@@ -6,7 +6,7 @@
  * Esta clase contiene métodos para realizar diferentes operaciones matemáticas.
  *
  * @autor Armando Vicente Hurtado Escolano
- * @version 1.0
+ * @version 2.0
  * @category Matemáticas
  */
 class Calculadora {

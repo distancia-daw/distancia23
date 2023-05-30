@@ -2,7 +2,7 @@
 /**
  * Este script realiza operaciones de suma y resta entre dos números.
  *
- * @version 1.0
+ * @version 2.0
  * @category Operaciones Matemáticas
  * @author Armando Vicente Hurtado Escolano
  */
